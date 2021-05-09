@@ -16,3 +16,7 @@ Created repo on 3 March 2021 for UX Design files from the Udacity Nanodegree pro
 [Figma Clicable Prototype](https://www.figma.com/file/IVNwjhiQSg3TpCgN3zfGU1/Personal-Safety-App-High-Fidelity-Prototype?node-id=0%3A1)
 
 [Google Gallery](https://gallery.io/projects/MCHbtQVoQ2HCZX070-b5FVei)
+
+
+
+Added final files after Final Project on 9 May 2021. 
